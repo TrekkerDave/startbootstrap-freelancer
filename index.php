@@ -157,6 +157,7 @@ function displayBlock($thisString) {
 	echo $thisString;
 }
 
+// End code added by Trekker.
 ?>
 
 
@@ -424,6 +425,7 @@ function displayBlock($thisString) {
 </body>
 
 </html>
+
 <?php
-mysql_free_result($rs_freelancer);
+mysql_free_result($rs_freelancer); // Code added by DreamWeaver
 ?>
