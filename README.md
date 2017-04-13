@@ -48,9 +48,13 @@ Another problem area is that of which PHP version your service is hosting. As of
 
 Some familiarity with php and mysql is assumed. This is not a tutorial in connecting to databases or for learning Bootstrap. Links to docs...
 
-## Tests
+## Files
 
-Describe and show how to run the tests with code examples. Loop code here? Debug stuff?
+With the exception of the addition of the **Connections** folder, and the change of **index.html** to **index.php**, the code files for Freelancer-DB  are the same as Freelancer.
+
+The build files from Freelancer (**package.json** and **gulpfile.js**) can be used to build Freelancer-DB.
+
+Please note that you must use the appropriate required files at the top of index.php.
 
 ## Future Versions
 
@@ -73,4 +77,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+This forked project continues with Blackrock Digital's MIT license.
