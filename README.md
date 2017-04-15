@@ -52,9 +52,9 @@ Some familiarity with php and mysql is assumed. This is not a tutorial in connec
 
 With the exception of the addition of the **Connections** folder, and the change of **index.html** to **index.php**, the code files for Freelancer-DB  are the same as Freelancer.
 
-The build files from Freelancer (**package.json** and **gulpfile.js**) can be used to build Freelancer-DB.
+The build files from Freelancer (**package.json** and **gulpfile.js**) can be used to build Freelancer-DB. As with Freelancer, you will have to install several gulp modules to do use the gulpfile.
 
-Please note that you must use the appropriate required files at the top of index.php.
+Please note that you must use the appropriate required files at the top of **index.php**.
 
 ## Future Versions
 
